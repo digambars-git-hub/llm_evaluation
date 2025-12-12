@@ -1,0 +1,9 @@
+{
+  "relevance_score": 0.7560259699821472,
+  "completeness_score": 0.67,
+  "missing_parts": [
+    "explain"
+  ],
+  "hallucination_score": 1.0,
+  "latency_ms": 5000
+}

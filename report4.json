@@ -1,0 +1,10 @@
+{
+  "relevance_score": 0.6714481115341187,
+  "completeness_score": 0.0,
+  "missing_parts": [
+    "difference",
+    "between"
+  ],
+  "hallucination_score": 1.0,
+  "latency_ms": 2000
+}

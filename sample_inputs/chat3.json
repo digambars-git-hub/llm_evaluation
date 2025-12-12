@@ -1,0 +1,15 @@
+{
+  "conversation_id": "conv3",
+  "messages": [
+    {
+      "role": "user",
+      "text": "What is photosynthesis?",
+      "ts": "2025-12-11T09:30:00Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Photosynthesis is the process used by plants to make food from sunlight.",
+      "ts": "2025-12-11T09:30:04Z"
+    }
+  ]
+}

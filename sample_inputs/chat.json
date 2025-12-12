@@ -1,0 +1,17 @@
+{
+  "conversation_id": "conv1",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Who is Ada Lovelace?",
+      "ts": "2025-12-10T10:00:00Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Ada Lovelace was an English mathematician known for early computer ideas.",
+      "ts": "2025-12-10T10:00:02Z"
+    }
+  ]
+}
+
+

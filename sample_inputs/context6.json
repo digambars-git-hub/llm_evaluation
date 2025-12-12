@@ -1,0 +1,16 @@
+{
+  "query": "What is the Internet?",
+  "contexts": [
+    {
+      "id": "i1",
+      "text": "The internet is a worldwide system of interconnected computer networks.",
+      "vector": null
+    },
+    {
+      "id": "i2",
+      "text": "It allows communication and data sharing globally.",
+      "vector": null
+    }
+  ]
+}
+        

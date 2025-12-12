@@ -1,0 +1,16 @@
+{
+  "query": "Who is Ada Lovelace?",
+  "contexts": [
+    {
+      "id": "c1",
+      "text": "Ada Lovelace (1815-1852) worked with Charles Babbage on early computing concepts.",
+      "vector": null
+    },
+    {
+      "id": "c2",
+      "text": "She is considered the first computer programmer.",
+      "vector": null
+    }
+  ]
+}
+

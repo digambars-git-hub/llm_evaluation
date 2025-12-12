@@ -1,0 +1,15 @@
+{
+  "conversation_id": "conv5",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Explain the water cycle.",
+      "ts": "2025-12-12T10:10:00Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Water cycle includes evaporation, condensation, and precipitation.",
+      "ts": "2025-12-12T10:10:05Z"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "query": "What is photosynthesis?",
+  "contexts": [
+    {
+      "id": "p1",
+      "text": "Photosynthesis is a process in which plants convert light into chemical energy.",
+      "vector": null
+    },
+    {
+      "id": "p2",
+      "text": "It mainly occurs in the chloroplasts of plant cells.",
+      "vector": null
+    }
+  ]
+}
+

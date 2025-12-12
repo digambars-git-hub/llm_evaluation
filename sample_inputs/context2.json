@@ -1,0 +1,7 @@
+{
+  "query": "Explain gravity",
+  "contexts": [
+    {"id":"g1", "text":"Gravity is a fundamental force that attracts objects."},
+    {"id":"g2", "text":"Earth pulls things downward due to gravity."}
+  ]
+}

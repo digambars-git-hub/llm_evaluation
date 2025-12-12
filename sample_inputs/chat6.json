@@ -1,0 +1,15 @@
+{
+  "conversation_id": "conv6",
+  "messages": [
+    {
+      "role": "user",
+      "text": "What is the Internet?",
+      "ts": "2025-12-12T11:45:00Z"
+    },
+    {
+      "role": "assistant",
+      "text": "The internet is a global network that connects computers.",
+      "ts": "2025-12-12T11:45:03Z"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "query": "Difference between CPU and GPU",
+  "contexts": [
+    {
+      "id": "cg1",
+      "text": "A CPU (central processing unit) manages general-purpose tasks.",
+      "vector": null
+    },
+    {
+      "id": "cg2",
+      "text": "A GPU (graphics processing unit) handles many operations in parallel, making it suitable for graphics and ML.",
+      "vector": null
+    }
+  ]
+}

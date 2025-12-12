@@ -1,0 +1,15 @@
+{
+  "conversation_id": "conv4",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Difference between CPU and GPU?",
+      "ts": "2025-12-11T15:00:00Z"
+    },
+    {
+      "role": "assistant",
+      "text": "A CPU handles general tasks, while a GPU is better for parallel processing.",
+      "ts": "2025-12-11T15:00:02Z"
+    }
+  ]
+}

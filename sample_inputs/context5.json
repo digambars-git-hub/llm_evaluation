@@ -1,0 +1,15 @@
+{
+  "query": "Explain the water cycle",
+  "contexts": [
+    {
+      "id": "w1",
+      "text": "The water cycle has stages like evaporation and condensation.",
+      "vector": null
+    },
+    {
+      "id": "w2",
+      "text": "Precipitation returns water back to Earth.",
+      "vector": null
+    }
+  ]
+}
