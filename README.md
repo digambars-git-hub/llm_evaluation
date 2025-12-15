@@ -13,4 +13,4 @@ python main.py --chat sample_inputs/chat.json --context sample_inputs/context.js
 
 
 ## License
-This project belongs to https://github.com/digambars-git-hub/llm_evaluation.git
+This project belongs to https://github.com/Himangimaurya
